@@ -45,3 +45,7 @@ We had copied project files to our project from archive
     $ cd /projects/angular2
     $ npm install
     $ npm start
+
+05_-_TypeScript_Compilation
+
+    http://localhost/
